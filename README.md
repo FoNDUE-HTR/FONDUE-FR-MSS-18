@@ -6,9 +6,11 @@ This repo contains the transcription of 18th c. French manuscripts.
 
 ## Content
 
+
 | Town          | Library                     | Shelfmark  | Folios   | Date             | Transcription         |
 |---------------|---------|-------------------|------------|----------|------------------|-----------------------|
 | Aschaffenburg | Hofbibliothek Aschaffenburg | 48         | samples  | 1st half 18th c. | P. Nahon and S. Gabay |
+
 
 ## How to cite
 
