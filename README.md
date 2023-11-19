@@ -14,7 +14,7 @@ This repo contains the transcription of 18th c. French manuscripts.
 
 ## How to cite
 
-Cf. [CITATION.cff](https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18/blob/main/citation.cff)
+Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18/blob/main/htr-united.yml)
 
 ## Licences
 Annotation is CC-BY. Images belong to the digital libraries
