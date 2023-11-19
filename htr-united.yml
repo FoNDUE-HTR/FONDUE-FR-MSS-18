@@ -134,8 +134,8 @@ time:
   notAfter: '1799'
   notBefore: '1700'
 title: FONDUE-FR-MSS-18
-url: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18
 transcription-guidelines: SegmOnto
+url: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18
 volume:
 - count: 108705
   metric: characters
