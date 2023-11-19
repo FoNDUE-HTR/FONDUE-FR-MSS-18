@@ -106,6 +106,7 @@ description: French Manuscripts of the 18th
 format: Alto-XML
 hands:
   count: unknown
+  precision: exact
 institutions: []
 language:
 - fra
