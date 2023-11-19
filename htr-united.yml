@@ -1,0 +1,49 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: FONDUE-FR-MSS-18
+url: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18
+authors:
+  - name: Peter
+    surname: Nahon
+    roles:
+      - transcriber
+      - project-manager
+  - name: Simon
+    surname: Gabay
+    orcid: 0000-0001-9094-4475
+    roles:
+      - transcriber
+      - project-manager
+      - quality-control
+institutions: []
+description: French Manuscripts of the 18th
+project-name: FoNDUE
+project-website: https://github.com/FoNDUE-HTR
+language:
+  - fra
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1700'
+  notAfter: '1799'
+hands:
+  count: unknown
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: pages
+    count: 80
+citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18/blob/master/CITATION.cff
+volume:
+- count: 34804
+  metric: characters
+- count: 40
+  metric: files
+- count: 1341
+  metric: lines
+- count: 110
+  metric: regions

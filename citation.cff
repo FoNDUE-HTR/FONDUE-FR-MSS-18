@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "FoNDUE-FR-MSS-18"
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - family-names: Gabay
+    given-names: Simon
+    email: simon.gabay@unige.ch
+    affiliation: Geneva University
+    orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Nahon
+    given-names: Peter
+repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18'
+keywords:
+  - HTR
+  - french
+  - modern
+  - manuscripts
+version: 1.0
+date-released: 2023-11-19
