@@ -18,9 +18,9 @@ characters:
   - s
   - a
   - t
+  - u
   - i
   - r
-  - u
   - n
   - o
   - l
@@ -28,10 +28,10 @@ characters:
   - m
   - c
   - p
-  - v
   - ','
-  - .
+  - v
   - q
+  - .
   - ́
   - f
   - g
@@ -39,36 +39,36 @@ characters:
   - ’
   - h
   - +
+  - "'"
   - I
-  - y
   - '1'
+  - y
   - ¬
   - x
   - ̀
   - ̂
-  - j
-  - "'"
   - V
+  - j
   - S
   - ':'
-  - E
   - '2'
+  - E
   - X
   - L
   - C
   - J
   - D
   - '3'
-  - M
   - ;
+  - M
   - '4'
   - '5'
+  - ̈
   - A
   - '6'
-  - ̈
   - '8'
-  - '7'
   - '9'
+  - '7'
   - P
   - '0'
   - O
@@ -80,14 +80,14 @@ characters:
   - œ
   -  
   - N
-  - G
   - Q
+  - G
   - H
   - B
   - F
   - α
-  - ο
   - U
+  - ο
   - z
   - μ
   - ω
@@ -132,11 +132,11 @@ time:
 title: FONDUE-FR-MSS-18
 url: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18
 volume:
-- count: 72268
+- count: 83950
   metric: characters
-- count: 51
+- count: 61
   metric: files
-- count: 1919
+- count: 2248
   metric: lines
-- count: 126
+- count: 152
   metric: regions
