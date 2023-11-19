@@ -33,22 +33,6 @@
                    TAGREFS="BT1578">
           <Shape><Polygon POINTS="28 17 50 1486 51 1559 1148 1546 1148 17"/></Shape>
           
-        </TextBlock>
-        
-        <TextBlock HPOS="169"
-                   VPOS="1567"
-                   WIDTH="977"
-                   HEIGHT="519"
-                   ID="eSc_textblock_9ac89526"
-                   TAGREFS="BT1581">
-          <Shape><Polygon POINTS="169 2086 171 1572 1146 1567 1146 2086"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="r5l1"
                     TAGREFS="LT607"
@@ -491,6 +475,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="169"
+                   VPOS="1567"
+                   WIDTH="977"
+                   HEIGHT="519"
+                   ID="eSc_textblock_9ac89526"
+                   TAGREFS="BT1581">
+          <Shape><Polygon POINTS="169 2086 171 1572 1146 1567 1146 2086"/></Shape>
+          
           
           <TextLine ID="r5l27"
                     TAGREFS="LT607"
@@ -696,6 +690,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
