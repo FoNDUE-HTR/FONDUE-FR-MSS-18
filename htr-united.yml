@@ -34,9 +34,6 @@ license:
   - name: CC-BY 4.0
     url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
-volume:
-  - metric: pages
-    count: 80
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18/blob/master/CITATION.cff
 volume:
 - count: 34804
