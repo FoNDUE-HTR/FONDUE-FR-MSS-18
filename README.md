@@ -2,12 +2,19 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-This repo contains the transcription of 18th c. manuscripts.
+This repo contains the transcription of 18th c. French manuscripts.
 
 ## Content
 
-- Data used for the transcription of the _Pentateuque traduit, avec des Remarques_ (Hofbibliothek Aschaffenburg 48). Peter Nahon and Simon Gabay.
+| Town          | Library                     | Shelfmark  | Folios   | Date             | Transcription         |
+|---------------|---------|-------------------|------------|----------|------------------|-----------------------|
+| Aschaffenburg | Hofbibliothek Aschaffenburg | 48         | samples  | 1st half 18th c. | P. Nahon and S. Gabay |
 
-## Bibliography
+## How to cite
 
-- S. Gabay and P. Nahon, "Modernités de Richard Simon: notes philologiques en vue d’une édition du Pentateuque traduit, avec des Remarques (Bibliothèque d’Aschaffenbourg, ms. 48)", _Dix-septième siècle_, 2022 (to be published).
+Cf. [CITATION.cff](https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18/blob/master/CITATION.cff)
+
+## Licences
+Annotation is CC-BY. Images belong to the digital libraries
+
+<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br />
