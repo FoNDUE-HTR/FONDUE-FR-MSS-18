@@ -19,8 +19,8 @@ characters:
   - a
   - t
   - i
-  - u
   - r
+  - u
   - n
   - o
   - l
@@ -36,47 +36,48 @@ characters:
   - f
   - b
   - g
-  - h
-  - "'"
   - ’
+  - h
   - I
   - +
-  - '1'
-  - x
   - y
+  - "'"
+  - '1'
   - ̀
-  - ̂
-  - V
-  - ':'
+  - x
   - ¬
+  - ̂
   - j
+  - V
   - E
-  - X
-  - '2'
-  - J
-  - L
+  - ':'
   - S
-  - D
+  - '2'
+  - X
+  - L
+  - J
   - C
+  - D
   - '3'
   - '4'
+  - ;
+  - M
   - A
   - '5'
-  - ;
   - '6'
-  - '7'
+  - P
   - '8'
+  - '7'
+  - ̈
   - '9'
   - '0'
-  - ̈
-  - M
   - ̧
   - O
-  - '?'
   - '-'
-  - P
+  - '?'
   - R
   -  
+  - œ
   - G
   - T
   - N
@@ -86,16 +87,16 @@ characters:
   - F
   - α
   - ο
-  - œ
   - μ
   - ω
   - τ
+  - z
   - ̓
   - ρ
   - φ
   - ν
   - U
-  - z
+  - '{'
   - k
   - δ
   - ι
@@ -103,6 +104,8 @@ characters:
   - π
   - λ
   - K
+  - (
+  - )
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18/blob/master/CITATION.cff
 description: French Manuscripts of the 18th
@@ -129,11 +132,11 @@ time:
 title: FONDUE-FR-MSS-18
 url: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18
 volume:
-- count: 40874
+- count: 56641
   metric: characters
-- count: 27
+- count: 39
   metric: files
-- count: 1072
+- count: 1495
   metric: lines
-- count: 69
+- count: 100
   metric: regions
