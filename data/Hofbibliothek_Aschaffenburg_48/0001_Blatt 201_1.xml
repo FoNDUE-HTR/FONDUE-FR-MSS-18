@@ -35,13 +35,13 @@
           
           
           <TextLine ID="eSc_line_56145c04"
-                    
+                    TAGREFS="LT613"
                     BASELINE="11 61 117 47" 
                     HPOS="5"
                     VPOS="3"
                     WIDTH="115"
                     HEIGHT="82">
-            <Shape><Polygon POINTS="36 3 18 3 5 24 10 60 13 85 120 77 116 46 109 6 48 3 36 3"/></Shape>
+            <Shape><Polygon POINTS="18 3 5 24 10 60 13 85 120 77 116 46 109 6 48 3 36 3"/></Shape>
 	    <String CONTENT="396"
                     HPOS="5"
                     VPOS="3"
