@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>btv1b107242563_f119.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1659" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1660" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT1661" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1662" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1663" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1664" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1665" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1666" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1667" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1668" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT637" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT638" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT639" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="7676"
+          HEIGHT="6116"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7676"
+                  HEIGHT="6116">
+        
+        <TextBlock HPOS="6517"
+                   VPOS="1489"
+                   WIDTH="192"
+                   HEIGHT="123"
+                   ID="eSc_textblock_9027b508"
+                   TAGREFS="BT1663">
+          <Shape><Polygon POINTS="6517 1497 6517 1604 6709 1612 6709 1489"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0d23002c"
+                    TAGREFS="LT637"
+                    BASELINE="6544 1574 6671 1564" 
+                    HPOS="6539"
+                    VPOS="1503"
+                    WIDTH="132"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="6590 1513 6585 1503 6539 1508 6544 1574 6544 1620 6671 1610 6671 1564 6651 1523 6641 1523"/></Shape>
+	    <String CONTENT="112"
+                    HPOS="6539"
+                    VPOS="1503"
+                    WIDTH="132"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4145"
+                   VPOS="1489"
+                   WIDTH="2569"
+                   HEIGHT="2863"
+                   ID="eSc_textblock_e300f448"
+                   TAGREFS="BT1661">
+          <Shape><Polygon POINTS="4221 1489 4145 4331 6677 4352 6714 1511 6563 1510"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_02d55fd9"
+                    TAGREFS="LT638"
+                    BASELINE="4765 1595 5514 1585" 
+                    HPOS="4760"
+                    VPOS="1488"
+                    WIDTH="754"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="5423 1503 5372 1503 5321 1498 5270 1498 5219 1498 5168 1498 5117 1493 5066 1493 5040 1493 4984 1508 4872 1488 4862 1488 4811 1488 4760 1564 4765 1595 4765 1620 5509 1610 5514 1585 5504 1523 5474 1503"/></Shape>
+	    <String CONTENT="Du 7ᵉ. Mars"
+                    HPOS="4760"
+                    VPOS="1488"
+                    WIDTH="754"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e69791c"
+                    TAGREFS="LT637"
+                    BASELINE="4286 1732 6661 1717" 
+                    HPOS="4281"
+                    VPOS="1613"
+                    WIDTH="2380"
+                    HEIGHT="181">
+            <Shape><Polygon POINTS="6269 1636 6218 1641 6167 1641 6116 1641 6065 1646 6014 1646 5963 1646 5912 1646 5861 1646 5815 1641 5815 1646 5112 1625 5107 1625 5102 1625 5096 1625 5056 1651 4612 1636 4587 1641 4536 1646 4485 1651 4429 1613 4362 1624 4332 1661 4281 1666 4286 1732 4291 1794 4398 1763 4862 1783 4989 1788 4995 1788 5000 1788 5020 1783 5076 1758 5479 1773 5795 1783 5800 1783 5805 1783 5810 1783 5830 1768 5841 1758 6014 1763 6498 1778 6503 1778 6656 1748 6661 1717 6651 1646 6335 1636 6320 1636"/></Shape>
+	    <String CONTENT="Comme Mʳ. Thompson ne fut pas mardy dernier a Versailles mʳ."
+                    HPOS="4281"
+                    VPOS="1613"
+                    WIDTH="2380"
+                    HEIGHT="181"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f503df5"
+                    TAGREFS="LT637"
+                    BASELINE="4296 1819 6692 1850" 
+                    HPOS="4291"
+                    VPOS="1727"
+                    WIDTH="2401"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="5061 1727 4989 1753 4979 1753 4944 1753 4663 1732 4653 1732 4602 1732 4571 1732 4556 1748 4541 1732 4500 1732 4449 1732 4424 1732 4296 1743 4296 1819 4291 1834 4347 1865 4352 1865 4357 1865 4995 1844 5015 1844 5061 1844 6335 1890 6340 1890 6687 1860 6692 1850 6687 1773 5892 1737 5886 1737 5586 1758 5509 1763 5479 1758 5361 1732 5356 1732 5351 1732 5300 1758 5290 1758 5265 1758 5096 1727 5061 1727"/></Shape>
+	    <String CONTENT="de Stainville et mʳ. fesche vinrent a leur retour luy rendre Compte"
+                    HPOS="4291"
+                    VPOS="1727"
+                    WIDTH="2401"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96d26e40"
+                    TAGREFS="LT637"
+                    BASELINE="4306 1906 6687 1962" 
+                    HPOS="4301"
+                    VPOS="1829"
+                    WIDTH="2386"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="4306 1906 4301 1931 6676 1977 6687 1962 6682 1870 4306 1829 4306 1906"/></Shape>
+	    <String CONTENT="de ce qui s&#39;etoit passé, et mʳ. Gundel qui etoit aussi resté icy Le"
+                    HPOS="4301"
+                    VPOS="1829"
+                    WIDTH="2386"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7865dbac"
+                    TAGREFS="LT637"
+                    BASELINE="4291 1997 5214 2002 6697 2059" 
+                    HPOS="4286"
+                    VPOS="1916"
+                    WIDTH="2411"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="6687 1962 6636 1962 6585 1962 6534 1962 6483 1962 6432 1957 6427 1957 6381 1957 6330 1957 6279 1957 6243 1952 6162 1952 6126 1952 6075 1952 6050 1946 5892 1946 5871 1946 5820 1946 5800 1941 5627 1941 5616 1941 5611 1936 4291 1916 4291 1997 4286 2013 6687 2074 6697 2059 6697 1962 6687 1957 6687 1962"/></Shape>
+	    <String CONTENT="touva chez mʳ. Thompson a leur retour de Versailles ; a huit heures"
+                    HPOS="4286"
+                    VPOS="1916"
+                    WIDTH="2411"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dff6d8a5"
+                    TAGREFS="LT637"
+                    BASELINE="4235 2069 5749 2094 6167 2135 6636 2140" 
+                    HPOS="4230"
+                    VPOS="1997"
+                    WIDTH="2406"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="6626 2059 6575 2059 6554 2053 5728 2038 5723 2033 5708 2023 5662 2023 5611 2018 5560 2018 5509 2018 5458 2013 5407 2013 5356 2013 5305 2008 5254 2008 5219 2002 4959 2002 4949 2002 4898 2002 4847 2002 4796 2002 4745 2002 4694 2002 4643 2002 4592 2002 4541 2002 4490 2002 4439 2002 4388 2002 4337 2002 4286 1997 4235 1997 4235 2069 4230 2089 4286 2115 4291 2115 4296 2115 4403 2089 4419 2089 4796 2094 4801 2104 4821 2120 4821 2125 4826 2125 4831 2125 4837 2125 4842 2125 4893 2104 4918 2099 5051 2110 5280 2135 5285 2135 5361 2120 5428 2110 5443 2125 5448 2135 5453 2135 5453 2140 5458 2140 5463 2140 5469 2140 5555 2130 5652 2115 6626 2160 6636 2140 6636 2059 6626 2059"/></Shape>
+	    <String CONTENT="du soir apres que ces Messieurs furent Sortis de Chez mʳ. Thompson"
+                    HPOS="4230"
+                    VPOS="1997"
+                    WIDTH="2406"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b5e6d01"
+                    TAGREFS="LT637"
+                    BASELINE="4306 2142 6064 2180 6136 2181 6692 2217" 
+                    HPOS="4296"
+                    VPOS="2074"
+                    WIDTH="2391"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="6595 2135 6544 2135 6493 2135 6442 2135 6391 2135 6340 2135 6289 2135 6238 2135 6187 2135 6136 2130 6085 2125 6034 2120 5983 2115 5968 2110 4301 2074 4301 2140 4296 2191 6676 2232 6687 2211 6682 2130 6595 2125 6595 2135"/></Shape>
+	    <String CONTENT="led. Sʳ. Thompson depecha vn de ses domestique a versailles et le"
+                    HPOS="4296"
+                    VPOS="2074"
+                    WIDTH="2391"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe4090a6"
+                    TAGREFS="LT637"
+                    BASELINE="4215 2242 5163 2252 5999 2288" 
+                    HPOS="4210"
+                    VPOS="2166"
+                    WIDTH="1789"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="5897 2196 5871 2191 5805 2206 5790 2206 5749 2206 5606 2191 5591 2191 5540 2191 5489 2186 5438 2186 5387 2186 5336 2186 5285 2186 5234 2186 5183 2181 5142 2181 5066 2186 5005 2186 4995 2181 4979 2181 4928 2181 4877 2176 4826 2176 4775 2176 4724 2176 4673 2176 4622 2176 4571 2171 4520 2171 4470 2171 4419 2171 4368 2171 4317 2171 4266 2166 4215 2166 4215 2242 4210 2262 5988 2313 5999 2288 5999 2206 5978 2196 5948 2196"/></Shape>
+	    <String CONTENT="domestique ne revint que le landemain au soir"
+                    HPOS="4210"
+                    VPOS="2166"
+                    WIDTH="1789"
+                    HEIGHT="147"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee0aa766"
+                    TAGREFS="LT637"
+                    BASELINE="4266 2349 4984 2339 6680 2369" 
+                    HPOS="4255"
+                    VPOS="2242"
+                    WIDTH="2421"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="5994 2283 5943 2283 5892 2283 5841 2278 5790 2278 5739 2273 5688 2273 5637 2273 5606 2268 5448 2273 5331 2273 5326 2273 5300 2257 5280 2257 5239 2252 5173 2268 5163 2273 5158 2268 5132 2247 5127 2247 5096 2247 5071 2268 5040 2247 5025 2247 4989 2247 4872 2268 4857 2268 4852 2268 4811 2247 4770 2247 4719 2247 4699 2242 4261 2257 4261 2344 4255 2354 4393 2385 4398 2385 5107 2369 5117 2369 5132 2369 5927 2405 5932 2405 6671 2385 6676 2364 6666 2288 6320 2288 6310 2283 6279 2257 6274 2257 6269 2257 6264 2257 5999 2257 5994 2283"/></Shape>
+	    <String CONTENT="Mercredy et jeudy jusqu&#39;a midy Mʳ. Lambassadeur dhollande et mʳ."
+                    HPOS="4255"
+                    VPOS="2242"
+                    WIDTH="2421"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f61ce44b"
+                    TAGREFS="LT637"
+                    BASELINE="4245 2441 5407 2436 6651 2476" 
+                    HPOS="4240"
+                    VPOS="2344"
+                    WIDTH="2411"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="5978 2359 5943 2359 5795 2380 5785 2380 5774 2380 5677 2354 5672 2354 5621 2354 5601 2354 5402 2375 5382 2375 5377 2375 5346 2349 5316 2349 5300 2344 5168 2369 5163 2369 5122 2344 5117 2344 5112 2344 5107 2344 4959 2364 4933 2344 4908 2344 4898 2344 4872 2364 4791 2344 4755 2344 4724 2344 4607 2359 4592 2349 4551 2349 4500 2349 4449 2349 4398 2349 4368 2349 4245 2354 4245 2441 4240 2456 6641 2497 6651 2476 6651 2395 6146 2390 6136 2385 6009 2359 5978 2359"/></Shape>
+	    <String CONTENT="Thompson ont toujours travaillés enSemble sans discontinüer, et le"
+                    HPOS="4240"
+                    VPOS="2344"
+                    WIDTH="2411"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_adc6aee6"
+                    TAGREFS="LT637"
+                    BASELINE="4245 2522 5611 2522 6707 2563" 
+                    HPOS="4240"
+                    VPOS="2441"
+                    WIDTH="2467"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="6641 2476 6590 2476 6539 2476 6488 2471 6437 2471 6386 2471 6371 2466 6355 2471 6014 2471 6004 2456 5978 2456 5927 2456 5876 2456 5825 2451 5774 2451 5723 2451 5672 2446 5621 2446 5570 2446 5519 2441 5469 2441 5418 2441 5367 2441 5316 2441 5265 2441 5214 2441 5163 2441 5112 2441 5061 2441 5010 2441 4959 2441 4908 2441 4857 2441 4806 2441 4755 2441 4704 2441 4653 2441 4602 2441 4551 2441 4500 2441 4449 2441 4398 2441 4347 2441 4296 2441 4245 2441 4245 2522 4240 2558 5912 2558 5978 2568 6101 2589 6106 2589 6289 2568 6310 2568 6315 2568 6345 2594 6350 2594 6355 2594 6360 2594 6702 2568 6707 2563 6697 2451 6651 2451 6641 2476"/></Shape>
+	    <String CONTENT="jeudy a vne heure apres midy mʳ Lambassadeur d&#39;hollande a depeché"
+                    HPOS="4240"
+                    VPOS="2441"
+                    WIDTH="2467"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bded995c"
+                    TAGREFS="LT637"
+                    BASELINE="4245 2599 5453 2609 6671 2655" 
+                    HPOS="4240"
+                    VPOS="2527"
+                    WIDTH="2431"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="6029 2543 5994 2538 5963 2538 5927 2538 5876 2533 5825 2533 5774 2533 5759 2527 5637 2553 5616 2553 5581 2553 5372 2527 5367 2527 5316 2527 5265 2527 5214 2527 5163 2527 5112 2527 5061 2527 5010 2527 4959 2527 4908 2527 4857 2527 4806 2527 4755 2527 4704 2527 4653 2527 4602 2527 4551 2527 4500 2527 4449 2527 4398 2527 4347 2527 4296 2527 4245 2527 4245 2599 4240 2619 6661 2665 6671 2655 6666 2578 6050 2543 6029 2543"/></Shape>
+	    <String CONTENT="un Courier pour la haye, et mʳ. Thompson a chargé led. Courier de ses depeches"
+                    HPOS="4240"
+                    VPOS="2527"
+                    WIDTH="2431"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bea962fa"
+                    TAGREFS="LT637"
+                    BASELINE="4240 2691 5183 2685 6513 2736" 
+                    HPOS="4235"
+                    VPOS="2604"
+                    WIDTH="2278"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="6483 2650 6432 2650 6422 2645 5708 2645 5581 2629 5326 2609 5311 2609 5260 2609 5209 2609 5158 2609 5107 2609 5056 2609 5005 2609 4954 2609 4903 2609 4852 2609 4678 2614 4622 2614 4612 2614 4597 2604 4546 2604 4495 2604 4444 2604 4393 2604 4342 2604 4291 2604 4240 2604 4240 2691 4235 2711 4791 2706 6503 2762 6513 2736 6508 2650 6483 2650"/></Shape>
+	    <String CONTENT="pour la haye et pour Langleterre  ; attendu que depuis quelques"
+                    HPOS="4235"
+                    VPOS="2604"
+                    WIDTH="2278"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_732cfc36"
+                    TAGREFS="LT637"
+                    BASELINE="4215 2762 5377 2772 6610 2833" 
+                    HPOS="4210"
+                    VPOS="2680"
+                    WIDTH="2400"
+                    HEIGHT="169">
+            <Shape><Polygon POINTS="6508 2736 6457 2736 6406 2736 6355 2731 6304 2731 6253 2731 6202 2726 6152 2726 6101 2721 6050 2721 5999 2721 5958 2716 4694 2691 4673 2691 4622 2691 4571 2691 4520 2691 4470 2691 4419 2691 4368 2691 4317 2691 4266 2691 4261 2680 4215 2680 4215 2762 4210 2777 6600 2849 6610 2833 6610 2731 6508 2726 6508 2736"/></Shape>
+	    <String CONTENT="Jours auparavant il ne receuoit aucunnes nouvelles de la Cour de Londres"
+                    HPOS="4210"
+                    VPOS="2680"
+                    WIDTH="2400"
+                    HEIGHT="169"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc0f70bf"
+                    TAGREFS="LT637"
+                    BASELINE="4225 2843 5428 2854 6595 2920" 
+                    HPOS="4220"
+                    VPOS="2767"
+                    WIDTH="2375"
+                    HEIGHT="178">
+            <Shape><Polygon POINTS="4480 2767 4429 2767 4378 2767 4327 2767 4276 2767 4225 2767 4225 2843 4220 2879 5147 2879 6585 2945 6595 2920 6590 2838 4520 2767 4480 2767"/></Shape>
+	    <String CONTENT="Mʳ. Lambassadeur dhollande avoit receu vn Courier de ses Etats"
+                    HPOS="4220"
+                    VPOS="2767"
+                    WIDTH="2375"
+                    HEIGHT="178"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7fe6159"
+                    TAGREFS="LT637"
+                    BASELINE="4179 2935 5285 2940 6600 3001" 
+                    HPOS="4174"
+                    VPOS="2854"
+                    WIDTH="2426"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="6065 2894 6055 2889 5718 2874 5708 2874 5688 2869 5632 2869 5606 2869 5565 2864 5458 2859 5453 2859 5443 2854 5372 2854 5351 2854 5300 2854 5249 2854 5198 2854 5147 2854 5096 2854 5045 2854 4995 2854 4944 2854 4893 2854 4842 2854 4179 2854 4179 2935 4174 2976 4444 2956 4495 2981 4500 2981 4505 2981 4811 2966 4898 2996 4903 2996 4908 2996 4913 2996 4938 2996 5193 2976 5265 3001 5290 3012 5295 3012 5300 3012 5351 3001 5443 2986 5469 3007 5479 3017 5484 3017 5489 3017 5494 3017 5499 3017 5504 3017 5504 3012 5514 3007 5535 2986 5713 3012 5897 3032 5902 3032 5983 3012 6019 3007 6034 3017 6065 3037 6070 3037 6075 3037 6080 3037 6595 3022 6600 3001 6595 2925 6070 2894 6065 2894"/></Shape>
+	    <String CONTENT="dimanche dernier et le même jour il en vint faire part a mʳ."
+                    HPOS="4174"
+                    VPOS="2854"
+                    WIDTH="2426"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d43fc1b"
+                    TAGREFS="LT637"
+                    BASELINE="4250 3017 4729 3022" 
+                    HPOS="4245"
+                    VPOS="2940"
+                    WIDTH="484"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="4709 2940 4658 2940 4607 2940 4556 2940 4505 2940 4454 2940 4403 2940 4352 2940 4301 2940 4250 2940 4250 3017 4245 3047 4719 3063 4729 3022 4724 2940 4709 2940"/></Shape>
+	    <String CONTENT="thompson,"
+                    HPOS="4245"
+                    VPOS="2940"
+                    WIDTH="484"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f789d9f"
+                    TAGREFS="LT637"
+                    BASELINE="4225 3103 5540 3114 6687 3175" 
+                    HPOS="4220"
+                    VPOS="2991"
+                    WIDTH="2467"
+                    HEIGHT="209">
+            <Shape><Polygon POINTS="4684 3022 4633 3022 4622 3022 4617 3027 4459 3027 4454 3022 4429 3022 4378 3022 4327 3022 4276 3022 4266 3007 4225 3012 4225 3103 4220 3129 6676 3200 6687 3175 6676 3073 6508 3073 6498 3068 6473 3042 6468 3042 6462 3042 6457 3042 6452 3042 6376 3063 6355 3068 5988 3063 5973 3052 5897 3027 5892 3027 5886 3027 5881 3027 5790 3052 5754 3058 5734 3047 5667 3017 5662 3017 5657 3017 5499 3037 5163 3001 5158 3001 4872 3027 4826 3032 4816 3027 4750 2991 4745 2991 4740 2991 4735 2991 4694 3001 4684 3022"/></Shape>
+	    <String CONTENT="toute La semaine Mʳ. Gundel a travaillé auec mʳ. Thompson, et a eté aussi"
+                    HPOS="4220"
+                    VPOS="2991"
+                    WIDTH="2467"
+                    HEIGHT="209"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_818c5c7b"
+                    TAGREFS="LT637"
+                    BASELINE="4235 3190 5591 3200 6631 3261" 
+                    HPOS="4230"
+                    VPOS="3108"
+                    WIDTH="2401"
+                    HEIGHT="174">
+            <Shape><Polygon POINTS="5305 3114 5254 3114 5203 3114 5153 3114 5102 3114 5056 3114 5035 3129 4913 3114 4898 3114 4847 3108 4796 3108 4755 3108 4714 3124 4709 3124 4673 3108 4643 3108 4592 3108 4561 3108 4526 3119 4520 3119 4510 3108 4490 3108 4439 3108 4388 3108 4337 3108 4286 3108 4276 3108 4235 3108 4235 3190 4230 3215 4699 3210 6620 3282 6631 3261 6626 3175 5311 3114 5305 3114"/></Shape>
+	    <String CONTENT="plusieurs fois chez Lambassadeur d&#39;hollande il a diné et soupé tout les"
+                    HPOS="4230"
+                    VPOS="3108"
+                    WIDTH="2401"
+                    HEIGHT="174"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65d2d43a"
+                    TAGREFS="LT637"
+                    BASELINE="4210 3272 5805 3272 6162 3302 6417 3287" 
+                    HPOS="4210"
+                    VPOS="3195"
+                    WIDTH="2207"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="6396 3287 6345 3246 6294 3246 6243 3241 6192 3236 6141 3236 6090 3231 6039 3231 5988 3226 5937 3226 5886 3221 5836 3215 5790 3215 5764 3210 4210 3195 4210 3272 4210 3348 4434 3292 4872 3292 4938 3328 4944 3328 4949 3328 4954 3328 4959 3328 5000 3297 5224 3328 5229 3328 5234 3328 5239 3328 5275 3302 5372 3353 5377 3353 5382 3353 5387 3353 5392 3353 5397 3353 5535 3297 5662 3348 5667 3348 5672 3348 5677 3348 5759 3307 5846 3353 5851 3353 5856 3358 6411 3358 6417 3287 6411 3282 6396 3287"/></Shape>
+	    <String CONTENT="jours chez mʳ. Thompson ainsy que mʳ. fesche qui ne fait que"
+                    HPOS="4210"
+                    VPOS="3195"
+                    WIDTH="2207"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7617c37d"
+                    TAGREFS="LT637"
+                    BASELINE="4204 3353 5677 3379" 
+                    HPOS="4199"
+                    VPOS="3272"
+                    WIDTH="1478"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="5224 3277 5173 3277 5122 3277 5071 3277 5040 3277 4984 3292 4505 3287 4500 3277 4459 3277 4408 3277 4357 3277 4306 3277 4255 3277 4250 3272 4204 3277 4204 3353 4199 3368 5667 3399 5677 3379 5662 3277 5586 3302 5239 3277 5224 3277"/></Shape>
+	    <String CONTENT="voltiger et courir chez tout ces messieurs"
+                    HPOS="4199"
+                    VPOS="3272"
+                    WIDTH="1478"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2663dbf3"
+                    TAGREFS="LT637"
+                    BASELINE="4215 3470 5270 3465 6564 3511" 
+                    HPOS="4215"
+                    VPOS="3358"
+                    WIDTH="2349"
+                    HEIGHT="204">
+            <Shape><Polygon POINTS="5591 3379 5555 3404 5525 3379 5489 3379 5438 3379 5433 3379 5290 3399 5260 3373 5234 3373 5183 3373 5132 3373 5127 3368 5102 3394 5071 3368 5030 3368 4979 3368 4969 3368 4643 3389 4577 3363 4571 3363 4536 3363 4480 3389 4347 3358 4317 3358 4271 3358 4215 3379 4215 3470 4215 3526 4296 3501 4403 3526 4408 3526 4413 3526 4419 3526 4510 3486 4689 3486 4735 3526 4745 3531 4745 3537 4750 3537 4755 3537 4760 3537 4887 3526 5224 3496 5581 3526 5800 3542 5805 3542 5943 3526 6029 3562 6034 3562 6039 3562 6182 3537 6457 3557 6462 3557 6468 3557 6559 3521 6564 3511 6564 3430 6238 3424 6238 3419 6213 3399 6213 3394 6208 3394 6202 3394 6197 3394 6080 3419 6075 3419 6009 3379 6004 3379 5999 3379 5994 3379 5728 3409 5637 3379 5591 3379"/></Shape>
+	    <String CONTENT="hier jeudy Mʳ. fesche a donné a diné a Mʳ. Thompson a mʳ."
+                    HPOS="4215"
+                    VPOS="3358"
+                    WIDTH="2349"
+                    HEIGHT="204"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a670cbe"
+                    TAGREFS="LT637"
+                    BASELINE="4220 3567 5285 3567 5871 3608 6610 3623" 
+                    HPOS="4215"
+                    VPOS="3475"
+                    WIDTH="2395"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="6121 3521 6106 3521 6070 3521 5769 3491 5764 3491 5514 3511 5484 3511 5443 3511 5142 3475 5137 3475 4220 3486 4220 3567 4215 3618 4546 3588 4577 3613 4582 3613 4587 3613 4592 3613 5305 3603 5377 3628 5433 3649 5438 3649 5443 3649 5448 3649 5514 3628 5581 3608 5642 3628 5723 3654 5728 3654 5734 3654 5739 3654 5810 3628 5836 3618 5846 3628 5866 3644 5866 3649 5871 3649 5876 3649 6024 3659 6029 3659 6034 3659 6126 3633 6488 3664 6493 3664 6498 3664 6605 3628 6610 3623 6605 3531 6320 3531 6310 3526 6253 3501 6208 3501"/></Shape>
+	    <String CONTENT="Gundel et a mʳ. de Baimer qui est icy envoyé d&#39;un Prince"
+                    HPOS="4215"
+                    VPOS="3475"
+                    WIDTH="2395"
+                    HEIGHT="189"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b18258de"
+                    TAGREFS="LT637"
+                    BASELINE="4215 3674 4735 3669" 
+                    HPOS="4210"
+                    VPOS="3608"
+                    WIDTH="525"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="4215 3674 4215 3695 4724 3700 4735 3669 4724 3608 4210 3608 4215 3674"/></Shape>
+	    <String CONTENT="d&#39;allemagne"
+                    HPOS="4210"
+                    VPOS="3608"
+                    WIDTH="525"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9dd77fea"
+                    TAGREFS="LT637"
+                    BASELINE="4220 3797 5377 3812 6615 3873" 
+                    HPOS="4215"
+                    VPOS="3674"
+                    WIDTH="2400"
+                    HEIGHT="230">
+            <Shape><Polygon POINTS="4678 3674 4628 3674 4612 3674 4566 3689 4439 3674 4424 3674 4373 3674 4322 3674 4255 3700 4220 3776 4220 3797 4215 3817 6605 3904 6615 3873 6610 3791 6498 3791 6493 3786 6447 3740 6447 3735 6442 3735 6437 3735 6432 3735 6427 3735 6325 3771 6243 3746 6238 3746 6233 3746 6228 3746 6157 3776 6152 3776 6085 3740 6080 3740 6075 3740 6070 3740 5999 3771 5994 3771 5988 3771 5841 3710 5836 3710 5830 3710 5825 3710 5820 3710 5774 3746 5672 3725 5667 3725 5535 3756 5525 3756 5519 3756 5448 3715 5443 3715 5438 3715 5433 3715 5428 3715 5392 3735 5351 3684 5346 3684 5346 3679 5341 3679 5336 3679 5209 3674 5076 3674 5071 3674 5066 3674 5061 3674 4989 3735 4938 3695 4933 3695 4928 3695 4923 3695 4918 3695 4786 3730 4699 3674 4678 3674"/></Shape>
+	    <String CONTENT="Mʳ. LEnvoyé de Portugal est venu tout les jours de cette semaine"
+                    HPOS="4215"
+                    VPOS="3674"
+                    WIDTH="2400"
+                    HEIGHT="230"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b879286"
+                    TAGREFS="LT637"
+                    BASELINE="4245 3919 5708 3924 6460 3955" 
+                    HPOS="4235"
+                    VPOS="3807"
+                    WIDTH="2222"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="6427 3858 5943 3858 5917 3832 5871 3832 5825 3832 5708 3853 5703 3853 5616 3822 5611 3822 5606 3822 5601 3822 5596 3822 5565 3847 5545 3822 5540 3822 5540 3817 5535 3817 5530 3817 5525 3817 5137 3847 5132 3847 5112 3822 5107 3822 5107 3817 5102 3817 5096 3817 5091 3817 4959 3842 4913 3812 4908 3812 4903 3812 4898 3812 4893 3812 4780 3842 4653 3807 4648 3807 4643 3807 4638 3807 4571 3842 4398 3842 4357 3807 4352 3807 4347 3807 4342 3807 4337 3807 4240 3837 4240 3914 4235 3929 6447 3975 6457 3949 6452 3863 6432 3863"/></Shape>
+	    <String CONTENT="chez mʳ. Thompson, et Voila trois assemblées de suitte que"
+                    HPOS="4235"
+                    VPOS="3807"
+                    WIDTH="2222"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f424cf6e"
+                    TAGREFS="LT637"
+                    BASELINE="4235 4016 6575 4062" 
+                    HPOS="4230"
+                    VPOS="3924"
+                    WIDTH="2345"
+                    HEIGHT="173">
+            <Shape><Polygon POINTS="6274 3949 6243 3949 6080 3970 6065 3970 6060 3970 6029 3939 6019 3939 6014 3939 5892 3965 5886 3965 5881 3965 5800 3934 5795 3934 5790 3934 5667 3960 5540 3929 5535 3929 5530 3929 5040 3949 5020 3949 5015 3949 4923 3924 4898 3924 4872 3924 4791 3944 4770 3924 4745 3924 4694 3924 4643 3924 4592 3924 4546 3924 4271 3934 4235 3975 4235 4016 4230 4031 6564 4097 6575 4062 6569 3980 6325 3980 6325 3975 6304 3949 6274 3949"/></Shape>
+	    <String CONTENT="Mʳ. Tompson n&#39;a pas eté chez Dom Louis Ambassadeur de"
+                    HPOS="4230"
+                    VPOS="3924"
+                    WIDTH="2345"
+                    HEIGHT="173"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3249d1c"
+                    TAGREFS="LT637"
+                    BASELINE="4240 4128 5254 4123 6600 4174" 
+                    HPOS="4235"
+                    VPOS="4026"
+                    WIDTH="2365"
+                    HEIGHT="183">
+            <Shape><Polygon POINTS="5922 4051 5871 4051 5820 4051 5769 4046 5718 4046 5667 4046 5621 4046 5530 4062 5519 4062 5514 4062 5474 4041 5463 4041 5412 4041 5402 4041 5351 4056 5346 4056 5254 4036 5209 4036 5178 4036 5147 4051 5112 4036 5107 4036 5061 4036 5045 4051 5040 4051 4842 4051 4837 4046 4811 4031 4801 4031 4750 4026 4699 4026 4648 4026 4597 4026 4546 4026 4505 4026 4276 4031 4240 4067 4240 4128 4235 4158 5193 4153 6590 4209 6600 4174 6600 4087 5963 4051 5922 4051"/></Shape>
+	    <String CONTENT="Portugal chez lequel tout les ministres Etrangers sassemble"
+                    HPOS="4235"
+                    VPOS="4026"
+                    WIDTH="2365"
+                    HEIGHT="183"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0185978"
+                    TAGREFS="LT637"
+                    BASELINE="4266 4225 5071 4225 6366 4271" 
+                    HPOS="4261"
+                    VPOS="4128"
+                    WIDTH="2105"
+                    HEIGHT="244">
+            <Shape><Polygon POINTS="6253 4163 6213 4189 6208 4189 5988 4189 5988 4184 5968 4158 5963 4158 5963 4153 5958 4153 5953 4153 5948 4153 5739 4174 5703 4143 5698 4143 5693 4143 5688 4143 5458 4169 5372 4133 5367 4133 5361 4133 5198 4163 5178 4138 5173 4138 5173 4133 5168 4133 5163 4133 5051 4128 5030 4128 4979 4128 4928 4128 4908 4128 4806 4153 4765 4128 4724 4128 4709 4128 4678 4148 4617 4128 4571 4128 4526 4128 4505 4143 4266 4143 4266 4225 4261 4276 4439 4327 4444 4327 4449 4327 4582 4321 4587 4321 4643 4296 4714 4265 4811 4301 4857 4321 4862 4321 4867 4321 4872 4321 4908 4306 4989 4276 5132 4306 5137 4306 5560 4286 5739 4347 5785 4362 5790 4362 5795 4362 5871 4352 5978 4337 6355 4372 6366 4271 6366 4194 6294 4163 6253 4163"/></Shape>
+	    <String CONTENT="deux fois le semaine, le dimanche et le mercredy"
+                    HPOS="4261"
+                    VPOS="4128"
+                    WIDTH="2105"
+                    HEIGHT="244"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5525"
+                   VPOS="3604"
+                   WIDTH="180"
+                   HEIGHT="155"
+                   ID="eSc_textblock_d7bec732"
+                   TAGREFS="BT1666">
+          <Shape><Polygon POINTS="5525 3604 5525 3759 5705 3759 5705 3604"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
