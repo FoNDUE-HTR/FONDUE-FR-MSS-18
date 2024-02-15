@@ -18,6 +18,7 @@ authors:
     given-names: Yvan
     email: yvan.jaureguy@unige.ch
     affiliation: Geneva University
+    orcid: https://orcid.org/0009-0009-1838-603X
 repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18'
 keywords:
   - HTR
