@@ -1,5 +1,8 @@
 # FoNDUE - FR - MSS - 18
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10668574.svg)](https://doi.org/10.5281/zenodo.10668574)
+
+
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
 This repo contains the transcription of 18th c. French manuscripts.
