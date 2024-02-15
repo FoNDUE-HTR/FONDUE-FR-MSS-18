@@ -12,6 +12,12 @@ authors:
     orcid: https://orcid.org/0000-0001-9094-4475
   - family-names: Nahon
     given-names: Peter
+    email: peter.nahon@univ-tours.fr
+    affiliation: CNRS
+  - family-names: Jaureguy
+    given-names: Yvan
+    email: yvan.jaureguy@unige.ch
+    affiliation: Geneva University
 repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18'
 keywords:
   - HTR

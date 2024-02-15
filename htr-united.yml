@@ -3,6 +3,10 @@ authors:
   roles:
   - transcriber
   surname: Nahon
+- name: Yvan
+  roles:
+  - transcriber
+  surname: Jaureguy
 - name: Simon
   orcid: 0000-0001-9094-4475
   roles:
