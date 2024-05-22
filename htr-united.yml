@@ -33,34 +33,34 @@ characters:
   - m
   - p
   - v
-  - .
   - ','
+  - .
   - ́
   - q
   - h
   - f
   - g
-  - b
   - "'"
+  - b
   - y
   - M
   - L
   - j
-  - '1'
-  - ’
-  - I
   - x
-  - E
-  - +
+  - '1'
   - C
-  - ̂
-  - ̀
+  - I
+  - ’
+  - E
   - S
-  - ¬
+  - +
+  - ̀
+  - ̂
   - '2'
+  - ¬
   - z
-  - ʳ
   - V
+  - ʳ
   - D
   - J
   - ':'
@@ -68,42 +68,42 @@ characters:
   - '3'
   - '4'
   - P
+  - A
   - ̈
+  - '7'
   - ;
   - ᵉ
-  - '7'
-  - A
   - '5'
   - '6'
+  - R
   - B
   - '9'
-  - R
   - '0'
-  - '8'
   - G
+  - '8'
   - T
   - ^
+  - N
   - O
   - ̧
-  - N
   - '-'
   - ᵗ
   - '?'
   - ᵈ
   - —
   - H
+  - Q
   - k
   - œ
   - ⟦
   - ⟧
   - ˢ
   - ˡ
+  - F
   - ᵇ
-  - Q
   -  
   - '['
   - ']'
-  - F
   - W
   - α
   - Z
@@ -121,6 +121,7 @@ characters:
   - τ
   - δ
   - ε
+  - '&'
   - K
   - ̄
   - ρ
@@ -159,11 +160,11 @@ title: FONDUE-FR-MSS-18
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18
 volume:
-- count: 166252
+- count: 178939
   metric: characters
-- count: 153
+- count: 163
   metric: files
-- count: 4733
+- count: 5051
   metric: lines
-- count: 460
+- count: 489
   metric: regions
