@@ -3,6 +3,10 @@ authors:
   roles:
   - transcriber
   surname: Nahon
+- name: Marco
+  roles:
+  - transcriber
+  surname: Cicchini
 - name: Yvan
   roles:
   - transcriber
