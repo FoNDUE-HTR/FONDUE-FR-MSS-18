@@ -168,7 +168,7 @@ volume:
   metric: characters
 - count: 163
   metric: files
-- count: 5051
+- count: 5050
   metric: lines
-- count: 489
+- count: 499
   metric: regions
