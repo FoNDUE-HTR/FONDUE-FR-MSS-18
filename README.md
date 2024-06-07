@@ -12,7 +12,7 @@ This repo contains the transcription of 18th c. French manuscripts.
 
 | Town          | Library                     | Shelfmark  | Folios   | Date             | Transcription         |
 |---------------|-----------------------------|------------|----------|------------------|-----------------------|
-| Aschaffenburg | Hofbibliothek Aschaffenburg | 48         | 82       | 1st half 18th c. | P. Nahon and S. Gabay |
+| Aschaffenburg | Hofbibliothek | 48         | 82       | 1st half 18th c. | P. Nahon and S. Gabay |
 | Paris         | Bnf, Arsenal                | [10283](https://gallica.bnf.fr/ark:/12148/btv1b10724224z/f1.item)      | 23       | 1725-29          | Y. Jauregui           |
 | Paris         | Bnf, Arsenal                | [10285](https://gallica.bnf.fr/ark:/12148/btv1b107241397/f1.item)      | 10       | 1731             | Y. Jauregui           |
 | Paris         | Bnf, Arsenal                | [10289](https://gallica.bnf.fr/ark:/12148/btv1b107242563/f1.item)      | 25       | 1744             | Y. Jauregui           |
