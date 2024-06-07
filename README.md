@@ -1,4 +1,4 @@
-# FoNDUE - FR - MSS - 18
+# FoNDUE-FR-MSS-18
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10668574.svg)](https://doi.org/10.5281/zenodo.10668574)
 
