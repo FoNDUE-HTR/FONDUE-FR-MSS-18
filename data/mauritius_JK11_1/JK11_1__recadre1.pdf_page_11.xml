@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>JK11_1__recadre1.pdf_page_11.png</fileName>
+      <fileIdentifier>pdf//JK11_1__recadre1.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT55" LABEL="NumberingZone:folio" DESCRIPTION="block type NumberingZone:folio"/><OtherTag ID="BT56" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT57" LABEL="CustomZone:paraph" DESCRIPTION="block type CustomZone:paraph"/><OtherTag ID="BT58" LABEL="CustomZone:closer" DESCRIPTION="block type CustomZone:closer"/><OtherTag ID="BT59" LABEL="NumberingZone:document" DESCRIPTION="block type NumberingZone:document"/><OtherTag ID="BT102" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT75" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2741"
+          HEIGHT="1765"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2741"
+                  HEIGHT="1765">
+        <TextBlock HPOS="2139"
+                   VPOS="5"
+                   WIDTH="597"
+                   HEIGHT="92"
+                   ID="eSc_textblock_104a0105"
+                   TAGREFS="BT55">
+          <Shape><Polygon POINTS="2139 5 2139 97 2736 97 2736 5"/></Shape>
+          <TextLine ID="eSc_line_1d4b52b4"
+                    TAGREFS="LT8"
+                    BASELINE="2142 65 2386 71 2513 80 2719 94 2719 94 2730 95" 
+                    HPOS="2139"
+                    VPOS="8"
+                    WIDTH="590"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="2140 64 2139 86 2149 91 2155 91 2168 80 2183 92 2251 86 2281 97 2299 82 2312 91 2464 91 2496 107 2565 110 2570 110 2580 98 2605 98 2612 105 2726 110 2729 94 2729 55 2692 54 2661 33 2654 33 2632 51 2601 27 2593 27 2562 47 2501 47 2436 20 2380 30 2367 17 2336 20 2304 36 2264 13 2256 13 2245 22 2234 11 2167 8 2140 26 2140 64"/></Shape>
+	    <String CONTENT="Dixhuitieme feuillet"
+                    HPOS="2139"
+                    VPOS="8"
+                    WIDTH="590"
+                    HEIGHT="102"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="278"
+                   VPOS="105"
+                   WIDTH="2459"
+                   HEIGHT="323"
+                   ID="eSc_textblock_0b8dd4ea"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="278 105 296 380 2737 428 2726 105"/></Shape>
+          <TextLine ID="eSc_line_7c53251a"
+                    TAGREFS="LT8"
+                    BASELINE="303 164 769 187 1218 184 1354 187 2574 291" 
+                    HPOS="300"
+                    VPOS="86"
+                    WIDTH="2274"
+                    HEIGHT="233">
+            <Shape><Polygon POINTS="300 172 720 201 751 197 837 210 910 201 1087 211 1149 204 1231 208 1310 241 1378 223 1544 230 1599 235 1691 270 1756 275 1855 254 2087 269 2143 292 2295 313 2392 307 2424 319 2523 302 2571 304 2573 289 2574 241 2523 223 2376 227 2180 197 2126 207 2040 180 1965 195 1899 179 1859 182 1805 158 1715 161 1687 148 1666 154 1641 145 1290 120 1185 125 1081 105 1006 102 829 126 457 101 414 86 304 88 301 163"/></Shape>
+	    <String CONTENT="Dernier auquel il a delivré La presente par duplicata Sur sa requisition ce"
+                    HPOS="300"
+                    VPOS="86"
+                    WIDTH="2274"
+                    HEIGHT="233"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_083ea48b"
+                    TAGREFS="LT8"
+                    BASELINE="333 322 1404 308 1630 330 1865 344 2121 378 2450 392 2556 399 2737 412" 
+                    HPOS="331"
+                    VPOS="239"
+                    WIDTH="2405"
+                    HEIGHT="229">
+            <Shape><Polygon POINTS="331 353 760 355 791 367 851 357 973 367 1079 358 1203 382 1306 364 1368 375 1405 367 1505 391 1647 389 1740 378 1892 389 1943 408 2248 410 2302 403 2313 468 2736 411 2735 327 2005 323 1803 286 1727 298 1687 295 1588 263 1543 273 1449 247 1222 257 1188 245 910 244 834 266 766 244 651 260 332 239 332 320"/></Shape>
+	    <String CONTENT="Jourdhui Vingt trois Juin mil Sept Cent quatre vingt quatorze Signé Toussaint"
+                    HPOS="331"
+                    VPOS="239"
+                    WIDTH="2405"
+                    HEIGHT="229"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1195"
+                   VPOS="420"
+                   WIDTH="1546"
+                   HEIGHT="1056"
+                   ID="eSc_textblock_2608eb52"
+                   TAGREFS="BT58">
+          <Shape><Polygon POINTS="1202 420 1195 1476 2734 1447 2741 442"/></Shape>
+          <TextLine ID="eSc_line_a85c0a7b"
+                    TAGREFS="LT8"
+                    BASELINE="1229 507 1525 506 1806 519 2064 541 2510 554 2693 562" 
+                    HPOS="1227"
+                    VPOS="442"
+                    WIDTH="1465"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="1228 505 1227 528 1280 529 1340 561 1365 563 1456 553 1488 564 1600 570 1650 547 1733 575 1789 578 1895 563 1930 582 1975 583 2067 558 2084 567 2130 561 2158 573 2183 564 2418 570 2487 603 2583 605 2629 591 2688 592 2692 561 2692 514 2570 511 2486 486 2418 504 2355 503 2317 480 2234 478 2170 495 2114 495 2012 470 1917 467 1884 482 1867 475 1837 483 1731 472 1659 478 1575 454 1444 463 1353 453 1328 463 1229 442 1228 505"/></Shape>
+	    <String CONTENT="enregistré par moy Greffier au Tribunal d&#x27;appel"
+                    HPOS="1227"
+                    VPOS="442"
+                    WIDTH="1465"
+                    HEIGHT="163"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6af37eaa"
+                    TAGREFS="LT8"
+                    BASELINE="1216 637 1659 641 2076 661 2277 663 2580 678 2709 680" 
+                    HPOS="1215"
+                    VPOS="573"
+                    WIDTH="1494"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="1215 650 1248 653 1249 653 1250 653 1254 652 1282 642 1339 654 1345 655 1346 655 1347 655 1349 654 1371 646 1420 646 1508 656 1509 656 1562 655 1579 660 1585 662 1586 662 1587 662 1597 661 1652 653 1717 654 1751 665 1752 665 1753 665 1756 665 1878 660 1912 670 1949 681 1950 681 1983 682 1984 682 1985 682 2019 673 2029 671 2050 674 2106 682 2107 682 2131 676 2163 669 2231 669 2310 682 2335 685 2336 685 2347 683 2364 679 2406 680 2416 685 2443 696 2444 696 2514 729 2588 700 2621 691 2628 689 2634 691 2657 700 2658 700 2659 701 2690 701 2690 700 2708 693 2709 680 2707 630 2658 632 2648 628 2638 623 2637 623 2596 622 2595 622 2578 626 2557 631 2528 625 2527 625 2526 625 2525 625 2474 628 2460 623 2440 615 2439 615 2438 615 2385 617 2374 621 2360 625 2117 619 2101 613 2041 594 2040 594 2039 594 1970 600 1942 594 1941 594 1940 594 1927 599 1885 589 1805 587 1804 587 1803 587 1757 601 1710 600 1654 582 1653 582 1652 582 1580 595 1520 578 1519 578 1356 573 1355 573 1354 573 1310 589 1217 590 1216 637"/></Shape>
+	    <String CONTENT="de la Colonie de LJsle de france soussigné au registre"
+                    HPOS="1215"
+                    VPOS="573"
+                    WIDTH="1494"
+                    HEIGHT="156"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bf9d3c30"
+                    TAGREFS="LT8"
+                    BASELINE="1223 756 1492 756 1766 761 1928 768 2047 783 2487 795 2639 795" 
+                    HPOS="1223"
+                    VPOS="702"
+                    WIDTH="1416"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1223 776 1288 764 1344 771 1345 772 1625 772 1662 786 1674 790 1675 790 1759 792 1760 792 1776 788 1822 777 1859 789 1860 789 1861 789 1966 782 2016 793 2030 796 2053 794 2076 792 2082 795 2096 800 2097 800 2098 800 2289 799 2366 799 2370 801 2384 806 2385 806 2490 808 2491 808 2492 808 2508 804 2510 804 2595 811 2596 811 2638 806 2639 795 2638 756 2515 755 2499 751 2484 748 2483 748 2471 750 2457 752 2427 748 2409 746 2382 734 2381 734 2380 734 2334 745 2313 749 2233 748 2195 739 2193 739 2192 739 2191 739 2181 742 2165 738 2107 722 2106 722 2105 722 2034 733 2024 734 2010 732 1938 718 1937 718 1844 724 1792 714 1712 712 1711 712 1710 712 1686 719 1647 730 1593 729 1559 719 1558 719 1557 719 1502 730 1428 723 1382 707 1372 705 1371 705 1370 705 1329 706 1249 707 1223 702 1223 756"/></Shape>
+	    <String CONTENT="jServant aux Jnsinutations Sur une expedition en"
+                    HPOS="1223"
+                    VPOS="702"
+                    WIDTH="1416"
+                    HEIGHT="109"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2c4e5bdc"
+                    TAGREFS="LT8"
+                    BASELINE="1241 887 1705 887 1883 895 2035 907 2428 912 2592 919" 
+                    HPOS="1240"
+                    VPOS="832"
+                    WIDTH="1352"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1240 914 1276 914 1276 913 1277 913 1319 901 1400 908 1401 908 1434 902 1461 907 1462 907 1463 907 1486 899 1681 906 1682 906 1898 905 1991 924 1993 924 1994 924 1997 924 2061 917 2088 925 2089 925 2189 927 2190 927 2193 927 2238 919 2256 927 2257 927 2292 928 2387 930 2388 930 2392 930 2446 919 2476 931 2477 931 2478 931 2590 932 2592 919 2590 864 2560 870 2537 862 2525 858 2524 858 2468 854 2467 854 2426 857 2425 857 2416 859 2385 872 2111 869 2015 850 1975 843 1974 843 1973 843 1953 849 1939 853 1923 848 1914 846 1913 846 1912 846 1911 846 1904 848 1858 860 1784 863 1756 851 1755 851 1724 848 1723 848 1722 848 1700 853 1668 848 1667 848 1626 851 1600 840 1592 837 1591 837 1483 837 1482 837 1481 837 1480 837 1450 850 1421 850 1381 835 1378 834 1377 834 1242 832 1241 887 1240 914"/></Shape>
+	    <String CONTENT="forme Representée et Renduë apres mention faite"
+                    HPOS="1240"
+                    VPOS="832"
+                    WIDTH="1352"
+                    HEIGHT="100"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c0fa5e2b"
+                    TAGREFS="LT8"
+                    BASELINE="1226 1021 1736 1019 1932 1026 2027 1035 2233 1038 2641 1034" 
+                    HPOS="1225"
+                    VPOS="976"
+                    WIDTH="1416"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="1225 1031 1661 1031 1585 1116 1701 1040 1702 1040 1770 1036 1830 1033 1881 1037 2027 1051 2028 1052 2199 1052 2199 1051 2200 1051 2219 1045 2274 1051 2275 1051 2447 1110 2584 1045 2603 1041 2639 1045 2641 1034 2639 978 2602 983 2601 983 2560 1000 2362 1000 2302 977 2299 976 2298 976 2297 976 2296 976 2293 977 2248 993 2208 980 2207 980 2206 980 2205 980 2151 1000 1971 1000 1864 976 1860 976 1751 976 1750 976 1749 976 1747 976 1693 990 1624 982 1623 982 1553 988 1521 978 1520 978 1449 977 1448 977 1391 989 1333 990 1299 976 1298 976 1226 976 1226 1021"/></Shape>
+	    <String CONTENT="du present enregistrement au port de la montagne"
+                    HPOS="1225"
+                    VPOS="976"
+                    WIDTH="1416"
+                    HEIGHT="140"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_65e72e4c"
+                    TAGREFS="LT8"
+                    BASELINE="1231 1163 1652 1154 2241 1163 2701 1160" 
+                    HPOS="1231"
+                    VPOS="1067"
+                    WIDTH="1470"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="2541 1134 2507 1127 2494 1125 2493 1125 2492 1125 2487 1127 2467 1135 2365 1135 2335 1124 2314 1117 2313 1117 2312 1117 2280 1123 2251 1129 2188 1126 2187 1126 2186 1126 2173 1131 2137 1121 2123 1117 2122 1117 2121 1117 2120 1117 2110 1120 2101 1123 2092 1120 2069 1112 2068 1112 2067 1112 2066 1112 2042 1119 2003 1131 1924 1119 1923 1119 1872 1129 1843 1121 1842 1121 1841 1121 1806 1127 1766 1115 1763 1114 1762 1114 1761 1114 1760 1114 1758 1114 1738 1121 1671 1117 1670 1117 1672 1067 1558 1128 1516 1110 1510 1109 1509 1109 1508 1109 1507 1109 1499 1110 1470 1118 1437 1109 1426 1107 1425 1107 1231 1107 1231 1163 1231 1178 1242 1175 1255 1178 1275 1183 1276 1183 1277 1183 1293 1178 1303 1175 1314 1178 1353 1189 1354 1189 1355 1190 1504 1190 1504 1189 1505 1189 1535 1177 1543 1174 1554 1177 1570 1180 1571 1180 1572 1180 1583 1176 1612 1168 1782 1168 1803 1175 1806 1176 1807 1176 1808 1176 1816 1175 1859 1168 1885 1175 1936 1189 1937 1189 1938 1190 1965 1190 1965 1189 2132 1174 2184 1169 2199 1173 2223 1180 2224 1180 2225 1180 2288 1173 2305 1171 2315 1173 2364 1182 2365 1182 2390 1179 2424 1189 2425 1189 2426 1190 2487 1190 2487 1189 2561 1171 2700 1170 2701 1160 2699 1136 2695 1131"/></Shape>
+	    <String CONTENT="Le Vingt Juin mil Sept Cent quartre vingt"
+                    HPOS="1231"
+                    VPOS="1067"
+                    WIDTH="1470"
+                    HEIGHT="123"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2961ba7c"
+                    TAGREFS="LT8"
+                    BASELINE="1219 1296 1688 1291 2038 1295 2624 1284" 
+                    HPOS="1218"
+                    VPOS="1229"
+                    WIDTH="1406"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1219 1296 1219 1348 1245 1348 1246 1348 1360 1309 1399 1314 1400 1314 1401 1314 1416 1307 1537 1307 1562 1316 1563 1316 1608 1321 1609 1321 1610 1321 1660 1306 1760 1309 1761 1309 1797 1304 1843 1315 1844 1315 1845 1315 1864 1311 1897 1322 1942 1338 1943 1338 1972 1340 1973 1340 2191 1338 2222 1332 2331 1337 2332 1337 2333 1337 2418 1307 2504 1311 2505 1311 2506 1311 2519 1305 2541 1310 2542 1310 2622 1294 2624 1284 2621 1249 2554 1250 2550 1249 2524 1242 2523 1242 2522 1242 2521 1242 2498 1250 2496 1251 2438 1251 2436 1251 2361 1230 2360 1230 2359 1230 2358 1230 2299 1252 2296 1254 2139 1254 2138 1254 2122 1249 2121 1249 2120 1249 2082 1255 2078 1255 2076 1255 2013 1229 2012 1229 2011 1229 1872 1230 1871 1230 1848 1240 1809 1231 1808 1231 1584 1233 1583 1233 1486 1260 1440 1260 1396 1247 1395 1247 1394 1247 1393 1247 1364 1258 1218 1263 1219 1296"/></Shape>
+	    <String CONTENT="quatorze Lan deux de La Repubilque francaise"
+                    HPOS="1218"
+                    VPOS="1229"
+                    WIDTH="1406"
+                    HEIGHT="119"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_29b76696"
+                    TAGREFS="LT8"
+                    BASELINE="1218 1428 1457 1419 1811 1416" 
+                    HPOS="1217"
+                    VPOS="1358"
+                    WIDTH="594"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1218 1452 1232 1446 1259 1447 1260 1447 1261 1447 1262 1447 1271 1439 1283 1446 1284 1446 1285 1446 1286 1446 1287 1446 1308 1433 1434 1432 1451 1442 1463 1449 1464 1449 1465 1449 1466 1450 1501 1450 1501 1449 1514 1448 1515 1448 1516 1448 1516 1447 1526 1438 1529 1435 1532 1438 1535 1440 1535 1441 1536 1441 1537 1441 1538 1442 1538 1441 1539 1441 1540 1441 1540 1440 1543 1437 1548 1433 1564 1433 1568 1436 1577 1445 1577 1446 1578 1446 1579 1446 1580 1447 1672 1447 1672 1446 1673 1446 1674 1446 1696 1431 1699 1429 1711 1430 1757 1435 1758 1435 1811 1425 1811 1416 1810 1378 1784 1369 1783 1369 1782 1369 1781 1369 1780 1369 1766 1379 1765 1380 1764 1379 1749 1371 1748 1371 1747 1371 1746 1371 1728 1380 1712 1358 1693 1386 1692 1386 1653 1393 1643 1383 1625 1367 1625 1366 1624 1366 1623 1366 1519 1368 1518 1368 1517 1368 1491 1388 1480 1396 1440 1395 1432 1390 1408 1379 1407 1379 1406 1379 1405 1379 1404 1379 1383 1392 1372 1399 1337 1399 1331 1394 1321 1386 1320 1386 1319 1386 1318 1386 1317 1386 1312 1390 1295 1385 1294 1385 1293 1385 1292 1385 1269 1395 1262 1389 1261 1389 1260 1389 1259 1389 1258 1389 1241 1397 1233 1400 1217 1398 1218 1428"/></Shape>
+	    <String CONTENT="une er Jndivisible"
+                    HPOS="1217"
+                    VPOS="1358"
+                    WIDTH="594"
+                    HEIGHT="94"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2266"
+                   VPOS="89"
+                   WIDTH="269"
+                   HEIGHT="87"
+                   ID="eSc_textblock_8ff79075"
+                   TAGREFS="BT57">
+          <Shape><Polygon POINTS="2535 176 2535 89 2266 89 2266 173"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1851"
+                   VPOS="1516"
+                   WIDTH="556"
+                   HEIGHT="204"
+                   ID="eSc_textblock_7aee5be4"
+                   TAGREFS="BT57">
+          <Shape><Polygon POINTS="1851 1516 1851 1720 2407 1720 2407 1516"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
