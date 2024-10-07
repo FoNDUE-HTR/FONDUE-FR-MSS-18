@@ -28,12 +28,12 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - s
   - a
+  - s
   - r
-  - u
   - t
   - n
+  - u
   - i
   - o
   - l
@@ -42,96 +42,98 @@ characters:
   - m
   - p
   - v
-  - ','
-  - .
   - ́
+  - .
+  - ','
   - q
   - h
   - f
   - g
-  - "'"
   - b
+  - "'"
   - y
-  - M
   - L
-  - j
-  - x
-  - '1'
+  - M
   - C
+  - S
+  - x
+  - j
+  - E
+  - '1'
+  - z
+  - ̀
   - I
   - ’
-  - E
-  - S
-  - +
-  - ̀
   - ̂
   - '2'
-  - ¬
-  - z
-  - V
-  - ʳ
-  - D
   - J
-  - ':'
-  - X
-  - '3'
-  - '4'
+  - +
+  - D
+  - V
+  - ¬
+  - ʳ
+  - ^
   - P
+  - ':'
+  - '4'
+  - '3'
+  - X
+  - R
+  - '7'
   - A
   - ̈
-  - '7'
-  - ;
-  - ᵉ
-  - '5'
-  - '6'
-  - R
   - B
-  - '9'
-  - '0'
-  - G
-  - '8'
+  - '6'
+  - ;
+  - '5'
   - T
-  - ^
+  - G
+  - '9'
+  - ᵉ
+  - '0'
+  - '8'
   - N
-  - O
+  - —
   - ̧
+  - O
+  - F
   - '-'
   - ᵗ
   - '?'
   - ᵈ
-  - —
-  - H
   - Q
   - k
-  - œ
+  - H
   - ⟦
   - ⟧
-  - ˢ
-  - ˡ
-  - F
-  - ᵇ
-  -  
   - '['
   - ']'
+  - œ
+  - ˢ
+  - ˡ
+  - ᵇ
+  - Z
+  -  
   - W
   - α
-  - Z
+  - w
   - U
+  - ̃
   - (
   - )
   - ̓
   - ο
   - ν
-  - ̃
+  - '&'
+  - K
   - ⁱ
-  - w
   - μ
   - ω
   - τ
   - δ
   - ε
-  - '&'
-  - K
+  - °
+  - Y
   - ̄
   - ρ
   - φ
@@ -141,7 +143,8 @@ characters:
   - υ
   - π
   - λ
-  - Y
+  - $
+  - /
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18/blob/master/CITATION.cff
 description: French Manuscripts of the 18th
@@ -169,11 +172,11 @@ title: FONDUE-FR-MSS-18
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18
 volume:
-- count: 178939
+- count: 232519
   metric: characters
-- count: 163
+- count: 228
   metric: files
-- count: 5050
+- count: 6446
   metric: lines
-- count: 499
+- count: 709
   metric: regions
