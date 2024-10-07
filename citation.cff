@@ -17,12 +17,17 @@ authors:
   - family-names: Cicchini
     given-names: Marco
     email: marco.cicchini@unige.ch
-    affiliation: Université de Genève
+    affiliation: Geneva University
   - family-names: Jaureguy
     given-names: Yvan
     email: yvan.jaureguy@unige.ch
     affiliation: Geneva University
     orcid: https://orcid.org/0009-0009-1838-603X
+  - family-names: Chappuis
+    given-names: Loraine
+    email: loraine.chappuis@unige.ch
+    affiliation: Geneva University
+    orcid: https://orcid.org/0000-0002-9598-9151
 repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-18'
 keywords:
   - HTR

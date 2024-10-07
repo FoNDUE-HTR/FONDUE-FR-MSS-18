@@ -19,6 +19,11 @@ authors:
   - quality-control
   - support
   surname: Gabay
+- name: Loraine
+  orcid: 0000-0002-9598-9151
+  roles:
+  - transcriber
+  surname: Chappuis
 automatically-aligned: false
 characters:
   members:
